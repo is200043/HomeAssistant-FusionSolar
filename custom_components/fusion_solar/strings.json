@@ -13,7 +13,7 @@
         }
       },
       "kiosk": {
-        "description": "1. Sign in on the [Huawei FusionSolar portal](https://eu5.fusionsolar.huawei.com/).\n2. Select your plant if needed.\n3. At the top there is a button: \"Kiosk\", click it.\n4. An overlay will open, and you need to enable the kiosk view by enabling the toggle.",
+        "description": "1. Sign in on the [Huawei FusionSolar portal](https://sg5.fusionsolar.huawei.com/).\n2. Select your plant if needed.\n3. At the top there is a button: \"Kiosk\", click it.\n4. An overlay will open, and you need to enable the kiosk view by enabling the toggle.",
         "data": {
           "name": "Name",
           "url": "Kiosk URL",
